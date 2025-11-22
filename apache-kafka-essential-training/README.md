@@ -2,4 +2,6 @@
 
  ## Pub Sub Advantages : 
 
- a. 
+ * Decoupling of poublishers and subscribers
+ * Easy management and changes
+ 
