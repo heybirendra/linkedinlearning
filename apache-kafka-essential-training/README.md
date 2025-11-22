@@ -1,7 +1,6 @@
- # Message Queues 
+ # 1. Message Queues 
 
- ## Pub Sub Advantages : 
+    ## Pub Sub Advantages : 
 
- * Decoupling of poublishers and subscribers
- * Easy management and changes
- 
+    * Decoupling of poublishers and subscribers
+    * Easy management and changes
